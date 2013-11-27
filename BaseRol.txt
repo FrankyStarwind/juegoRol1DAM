@@ -34,5 +34,7 @@ Sistema de juego:
 - Fase 1 y 2:
 1º Tirada de dado para atacar
 2º Recibe o no el ataque
-3ºTirada de dado para atacar
-4º Recibe o no el ataque
+3º Esquivar o no el ataque
+4ºTirada de dado para atacar
+5º Recibe o no el ataque
+6º Esquivar o no el ataque
