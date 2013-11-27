@@ -10,9 +10,9 @@ Clase
 100 Agilidad
 
 Guerrero:
-  	+20 Fuerza
-	+20 VIT
-	-30 Agilidad
++20 Fuerza
++20 VIT
+-30 Agilidad
 
 Mago
 +30 Fuerza
