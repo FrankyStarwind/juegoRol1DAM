@@ -1,0 +1,35 @@
+Juego de Rol 1º DAM
+
+Personajes:
+Básico
+Nombre usuario
+Clase
+100 VIT
+100 Fuerza
+100 Agilidad
+
+Guerrero:
+  	+20 Fuerza
+	+20 VIT
+	-30 Agilidad
+
+Mago
++30 Fuerza
+-20 VIT
+0 Agilidad
+Arquero
+-30 Fuerza
+-10 VIT
++25 Agilidad
+Pícaro
++10 Fuerza
+0 VIT
++40 Agilidad
+
+Sistema de juego:
+
+	- Fase 1 y 2:
+1º Tirada de dado para atacar
+2º Recibe o no el ataque
+3ºTirada de dado para atacar
+4º Recibe o no el ataque
