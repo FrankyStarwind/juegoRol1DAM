@@ -1,0 +1,51 @@
+  Ficha de personajes
+  
+  Guerrero:
+- Mandoble matamagos 20
+Si el enemigo es un mago, el enemigo recibe +10 de daño
+- Liberar armadura
+A cambio de 10 de VIT, aumenta 20 en Fuerza
+- Filo devastador
+Ocasiona 20 puntos de daño básico.
+- Cadena de combos -> 10
+Tira un dado, si saca 3 o más, realiza de nuevo el ataque y vuelve a tirar hasta que falle.
+El enemigo no puede esquivar los combos.
+
+
+  Mago:
+- Piro 20
+Lanza una llama contra el enemigo
+- Electro 20
+Lanza un rayo contra el enemigo
+- Hielo 20
+Genera una ventisca, del cual el jugador tira un dado de 6 caras. 
+Si sale 4 o más, el enemigo es congelado y no puede atacar en 3 turnos.
+
+NOTA: Si ataca con fuego o recibe daño de fuego, pasa el efecto antes
+
+- Cura 
+Sana el 40% de la vida, pero solo lo puede usar cada 2 turnos.
+
+  Arquero:
+- Disparo múltiple-> 15
+Tira otra vez si acierta la primera tirada
+- Señuelo
+Tira un dado de 6 caras, si sale 4 o más, evita el ataque
+
+- Campo de púas
+-10 al enemigo durante 5 turnos
+
+- Afirmar punteria
+Pierde un turno a cambio de no tener que tirar disparo múltiple
+
+  Pícaro
+- Dagas explosivas ->15
+Tira un dado adicional de 6 caras, si sale 5 o 6, ocasiona +15 de daño
+- Puñadala trapera ->20
+Si es el primer movimiento, realiza un +15
+- Cadenas infortunas
+El enemigo no puede esquivar, pero solo puede usarse una vez por combate
+- Pantalla de humo
+Tira un dado de 6 caras, si sale 3 o más, evita el combate y pasa a la siguiente fase sin ganar experiencia.
+Si falla, tiene que esperar 3 turnos.
+
